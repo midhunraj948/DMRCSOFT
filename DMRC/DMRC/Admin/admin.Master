@@ -1,0 +1,4 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="admin.master.cs" Inherits="DMRC.Admin.admin" %>
+
+<!DOCTYPE html>
+
